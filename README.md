@@ -1,7 +1,7 @@
 # Distributed-IDM
-"Download a file with the help of many devices"
 Download .exe file at https://goo.gl/opHXnK
-It aims at distributing the work load of downloading a file among multiple machines within the same network.
+
+> It aims at distributing the work load of downloading a file among multiple machines within the same network.
 
 Working :
   * Connection is established with the machines that respond with acceptance.
